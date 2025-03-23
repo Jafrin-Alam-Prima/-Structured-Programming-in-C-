@@ -1,27 +1,72 @@
 # 📌 Structured Programming in C  
 
-This repository contains all the C programs I wrote during my **1st semester (2022)** while learning **Structured Programming in C**.  
-It covers fundamental concepts such as **loops, arrays, functions, file handling, pattern printing, sorting algorithms, ternary operator, math functions, switch cases, and even a music program! 🎵**  
+This repository contains **all fundamental C programs** I wrote during my **1st semester (2022)** while learning **Structured Programming in C**.  
+It includes **basic to advanced topics** like `variables`, `if-else`, `switch-case`, `loops`, `arrays`, `functions`, `pointers`, `sorting`, `searching`, `file handling`, `math functions`, and even a `music program` that plays **Jadoo’s Message & Twinkle Twinkle Little Star!** 🎵  
 
 ---
 
 ## 📂 Folder Structure & Topics Covered  
 
+### 1️⃣ Basics of C  
 | File Name        | Description |
 |-----------------|-------------|
-| `loops.c` | Examples of **for, while, and do-while** loops |
+| `variables.c` | Declaring and using **variables, constants, and data types** |
+| `input_output.c` | **scanf() & printf()** for user input and output |
+| `operators.c` | Arithmetic, Logical, Relational, Bitwise **Operators** |
+
+### 2️⃣ Conditional Statements  
+| File Name        | Description |
+|-----------------|-------------|
+| `if_else.c` | Examples of **if, if-else, nested if-else** |
+| `switch_case.c` | **Switch case** programs for menu-driven execution |
+| `ternary.c` | **Ternary operator** usage in decision-making |
+
+### 3️⃣ Loops & Iterations  
+| File Name        | Description |
+|-----------------|-------------|
+| `loops.c` | **For, while, and do-while** loop examples |
+| `nested_loops.c` | **Nested loops** for pattern printing |
+| `patterns.c` | Printing **stars, numbers, and alphabets** |
+
+### 4️⃣ Arrays & Strings  
+| File Name        | Description |
+|-----------------|-------------|
 | `arrays.c` | **Single & Multi-dimensional** array operations |
-| `functions.c` | **User-defined and recursive** functions |
-| `pointers.c` | **Pointer operations** and memory access |
-| `patterns.c` | Printing **star, number, and alphabet** patterns |
+| `strings.c` | String operations using `gets()`, `puts()`, `strcpy()`, etc. |
+
+### 5️⃣ Functions & Recursion  
+| File Name        | Description |
+|-----------------|-------------|
+| `functions.c` | **User-defined functions** & function calls |
+| `recursion.c` | **Recursive functions** for factorial, Fibonacci, etc. |
+
+### 6️⃣ Pointers & Memory Management  
+| File Name        | Description |
+|-----------------|-------------|
+| `pointers.c` | **Pointer basics, pointer arithmetic** |
+| `pointer_functions.c` | **Passing pointers to functions** |
+
+### 7️⃣ Searching & Sorting Algorithms  
+| File Name        | Description |
+|-----------------|-------------|
 | `sorting.c` | Implementation of **Bubble, Selection, Insertion Sort** |
-| `searching.c` | **Linear & Binary** search implementations |
-| `file_handling.c` | **Read/Write files** in C |
-| `ternary.c` | Usage of **ternary (conditional) operator** |
-| `math_functions.c` | Examples of **math functions like sqrt(), pow(), abs(), sin(), cos()** |
-| `switch_case.c` | **Switch case examples** for menu-driven programs |
+| `searching.c` | **Linear & Binary** search |
+
+### 8️⃣ File Handling  
+| File Name        | Description |
+|-----------------|-------------|
+| `file_handling.c` | **Reading & writing files** using `fopen()`, `fprintf()`, `fscanf()` |
+
+### 9️⃣ Mathematics & Miscellaneous  
+| File Name        | Description |
+|-----------------|-------------|
+| `math_functions.c` | **Math functions like sqrt(), pow(), abs(), sin(), cos()** |
+| `miscellaneous.c` | Various **math & logical problem-solving programs** |
+
+### 🔟 🎶 Music Program  
+| File Name        | Description |
+|-----------------|-------------|
 | `music.c` | 🎶 **Plays Jadoo's Outer Space Message & Twinkle Twinkle Little Star** |
-| `miscellaneous.c` | Various **math and logical problem-solving programs** |
 
 ---
 
